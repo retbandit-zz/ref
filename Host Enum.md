@@ -1,4 +1,4 @@
-## Environment Info Gathering
+## Windows Host Info Gathering
 
 Get OS, Domain, username, active connections:
 
@@ -109,7 +109,7 @@ References:
 - <http://blog.jpcert.or.jp/2016/01/windows-commands-abused-by-attackers.html>
 
 ---------
-### Installs Apps
+### Installed Apps
 
 Manually:
 
